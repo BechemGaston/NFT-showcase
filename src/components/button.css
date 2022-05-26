@@ -1,0 +1,19 @@
+.expobtn {
+    background: black;
+    color: #fff;
+    width: 20%;
+    height: 40px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.expobtn:hover {
+    background: rgb(206, 19, 9);
+    cursor: pointer;
+}
+
+
+
+  
